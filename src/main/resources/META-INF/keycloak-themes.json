@@ -1,0 +1,8 @@
+{
+  "themes": [
+    {
+      "name": "alma",
+      "types": [ "login" ]
+    }
+  ]
+}
