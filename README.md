@@ -2,8 +2,7 @@
 
 An ALMA theme for Keycloak, based on the 
 [ALMA UI Guidelines](https://confluence.alma.cl/pages/viewpage.action?spaceKey=ICT&title=ALMA+Web+UI+Guidelines).
-
-See https://www.keycloak.org/docs/latest/server_development/#_themes
+See also the [Keycloak themes documentation](https://www.keycloak.org/docs/latest/server_development/#_themes).
 
 ## Build
 Build with
