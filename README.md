@@ -11,6 +11,14 @@ cd .../keycloak-alma-theme ; mvn clean install
 ```
 
 ## Install
+
 Copy the generated jarfile to Keycloak's _standalone/deployments/_
 directory.  
 You don't need to restart the server.
+
+## Configure
+
+The theme can be associated with a client in 
+the Keycloak admin UI: 
+_Realm  Settings_ &rarr; _Themes_ &rarr; _Login Theme_, choose _alma_.  
+Make sure to set the _Internationalization Enabled_ toggle to _ON_.
